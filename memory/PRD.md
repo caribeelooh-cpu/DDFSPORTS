@@ -21,3 +21,5 @@ Quero verificar meu site no Google Search Console. Preciso adicionar a meta tag 
 ## Current status
 - Source and local build are correct.
 - The public and preview hosts currently serve an older/different HTML artifact with zero verification tags; publication remains unresolved.
+## Update (Jun 2026)
+- Token REACT_APP_GOOGLE_SITE_VERIFICATION_TOKEN re-entered by user via secure card; local build verified (43-char token in meta tag). Redeploy triggered.
